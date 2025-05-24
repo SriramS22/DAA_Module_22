@@ -18,8 +18,8 @@ The final answer (length of LCS) is in dp[len(str1)][len(str2)].
 ```Python
 /*
 Program to implement the longest common subsequence using Dynamic Programming.
-Developed by: Gokul J
-Register Number: 212222230038 
+Developed by: Gokularamanan K
+RegisterNumber: 212222230040
 */
 def longest_common_subsequence(str1, str2):
     m = len(str1)
@@ -71,8 +71,8 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 ```python
 /*
 Program to implement the longest common substring problem.
-Developed by: Gokul J
-Register Number: 212222230038  
+Developed by: Gokularamanan K
+RegisterNumber: 212222230040 
 */
 def LCSubStr(X,Y,m,n):
     LCSuff = [[0 for k in range(n+1)] for l in range(m+1)]
@@ -124,8 +124,8 @@ Given a sequence, find the length of the longest palindromic subsequence in it.
 ```python
 /*
 Program to implement to find the length of the longest palindromic subsequence in it.
-Developed by: Gokul J
-Register Number: 212222230038  
+Developed by: Gokularamanan K
+RegisterNumber: 212222230040 
 */
 def Lps(X):
     n=len(X)
@@ -173,8 +173,8 @@ To find the minimum number of operations to convert str1 to str2 using Naive rec
 ```
 /*
 Program to implement to find the minimum number of operations to convert str1 to str2 using Naive recursive method.
-Developed by: Gokul J 
-Register Number: 212222230038
+Developed by: Gokularamanan K
+RegisterNumber: 212222230040
 */
 ```
 ```python
