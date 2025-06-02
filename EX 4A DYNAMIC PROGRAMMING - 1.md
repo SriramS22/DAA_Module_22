@@ -18,8 +18,8 @@ The final answer (length of LCS) is in dp[len(str1)][len(str2)].
 ```Python
 /*
 Program to implement the longest common subsequence using Dynamic Programming.
-Developed by: Gokularamanan K
-RegisterNumber: 212222230040
+Developed by: sriram s
+RegisterNumber: 212222240105
 */
 def longest_common_subsequence(str1, str2):
     m = len(str1)
